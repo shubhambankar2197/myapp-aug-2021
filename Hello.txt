@@ -1,0 +1,4 @@
+git config --global user.name “Shubham" 
+git config --global user.email shubham.bankar2197@gmail.com
+
+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 
